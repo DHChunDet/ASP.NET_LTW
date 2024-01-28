@@ -1,0 +1,27 @@
+﻿@model IEnumerable<dynamic>
+
+<h1>Danh thu</h1>
+<select>
+    <option value="1">Month<a asp-area="" asp-controller="ShopingCartItems" asp-action="CalculateRevenueByDay"></a></option>
+    <option value="2">Day</option>
+</select>
+<table>
+    <thead>
+        <tr>
+            <th> Tháng</th>
+            <th> </th>
+            <th>Tổng doanh thu</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Month</td>
+
+                <td>@item.TotalRevenueMonth</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xMcvq95smtC1KeR6GiBCwy7X6taQBaNXGgve9vWxPpA=",
+  "Hash": "9hHLy2hR8efihK1SCKEH1SSJT5LEQTi8qDfa17KnyMM=",
   "Source": "DoAnLTW",
   "BasePath": "_content/DoAnLTW",
   "Mode": "Default",
@@ -813,6 +813,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\shop03.png"
+    },
+    {
+      "Identity": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\xiaomiredminote13.jpg",
+      "SourceId": "DoAnLTW",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\",
+      "BasePath": "_content/DoAnLTW",
+      "RelativePath": "img/xiaomiredminote13.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\xiaomiredminote13.jpg"
     },
     {
       "Identity": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\js\\bootstrap.min.js",

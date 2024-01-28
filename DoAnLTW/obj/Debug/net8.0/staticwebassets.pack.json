@@ -157,6 +157,10 @@
       "PackagePath": "staticwebassets\\img\\shop03.png"
     },
     {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\xiaomiredminote13.jpg",
+      "PackagePath": "staticwebassets\\img\\xiaomiredminote13.jpg"
+    },
+    {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },

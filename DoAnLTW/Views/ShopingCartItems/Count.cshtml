@@ -1,0 +1,22 @@
+﻿@model IEnumerable<dynamic>
+<h1> Phiếu xuất kho</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th> Mã sản phẩm</th>
+            <th> </th>
+            <th>Xuất kho</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+
+                <td>@item.Totalquantity</td>
+            </tr>
+        }
+   </tbody>
+     </table>

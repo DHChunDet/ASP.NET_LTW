@@ -3,29 +3,32 @@
 @{
     ViewData["Title"] = "Details";
 }
-
-<div class="row">
-<!-- Product thumb imgs -->
-					<div class="col-md-4  col-md-pull-5">
-						<div id="product-imgs">
+<!-- SECTION -->
+<div class="section">
+	<!-- container -->
+	<div class="container">
+				<div class="row">
+					<!-- Product main img -->
+					<div class="col-md-5 col-md-push-2">
+						<div id="product-main-img">
 							<div class="product-preview">
 								<img src=@Model?.ImageUrl alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/product03.png" alt="">
+								<img src=@Model?.ImageUrl alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/product06.png" alt="">
+								<img src=@Model?.ImageUrl alt="">
 							</div>
 
 							<div class="product-preview">
-								<img src="./img/product08.png" alt="">
+								<img src=@Model?.ImageUrl alt="">
 							</div>
 						</div>
 					</div>
-					<!-- /Product thumb imgs -->
+					<!-- /Product main img -->
 
 					<!-- Product details -->
 					<div class="col-md-8">
@@ -100,4 +103,6 @@
 						</div>
 					</div>
 					<!-- /Product details -->
+				</div>
+	</div>
 </div>
