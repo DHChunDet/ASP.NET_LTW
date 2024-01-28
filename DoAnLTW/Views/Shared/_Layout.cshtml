@@ -42,16 +42,17 @@
 		<div id="top-header">
 			<div class="container">
 				<ul class="header-links pull-left">
-					<li><a href="#"><i class="fa fa-phone"></i>0819.404.518</a></li>
-					<li><a href="#"><i class="fa fa-envelope-o"></i> dinhhuynhtrungdat@gmail.com</a></li>
+					<li><a href="#"><i class="fa fa-phone"></i>0819+++</a></li>
+					<li><a href="#"><i class="fa fa-envelope-o"></i> d@gmail.com</a></li>
 					<li><a href="#"><i class="fa fa-map-marker"></i>331 QL1A, An Phú Đông, Quận 12, Thành phố Hồ Chí Minh</a></li>
 				</ul>
 				<ul class="header-links pull-right">
 					@if(User.Identity.IsAuthenticated && User.IsInRole("Administrator"))
 					{
 						<li><a href="/Products/Create"><i class="fa fa-dollar"></i> Create</a></li>
+						<li><a href="/Users"><i class="fa fa-dollar"></i> Manage User</a></li>
 					}
-					<li><a href="/Users/Login"><i class="fa fa-user-o"></i> Login</a></li>
+					<li><a href="/Home/Login"><i class="fa fa-user-o"></i> Login</a></li>
 					<li><a href="/Users/Logout"><i class="fa fa-user-o"></i> Exit</a></li>
 				</ul>
 			</div>
@@ -105,8 +106,8 @@
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 							<ul class="footer-links">
 								<li><a href="#"><i class="fa fa-map-marker"></i>1734 Stonecoal Road</a></li>
-								<li><a href="#"><i class="fa fa-phone"></i>0819.404.518</a></li>
-								<li><a href="#"><i class="fa fa-envelope-o"></i>dinhhuynhtrungdat@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i>0819++</a></li>
+								<li><a href="#"><i class="fa fa-envelope-o"></i>d@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>

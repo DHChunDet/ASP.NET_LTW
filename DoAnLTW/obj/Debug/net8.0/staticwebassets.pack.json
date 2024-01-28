@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -81,8 +85,24 @@
       "PackagePath": "staticwebassets\\img\\hotdeal.png"
     },
     {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\ip12.jpg",
+      "PackagePath": "staticwebassets\\img\\ip12.jpg"
+    },
+    {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\ip15.jpg",
+      "PackagePath": "staticwebassets\\img\\ip15.jpg"
+    },
+    {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\loa.jpg",
+      "PackagePath": "staticwebassets\\img\\loa.jpg"
+    },
+    {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\mac.jpg",
+      "PackagePath": "staticwebassets\\img\\mac.jpg"
     },
     {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\product01.png",
@@ -119,6 +139,10 @@
     {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\product09.png",
       "PackagePath": "staticwebassets\\img\\product09.png"
+    },
+    {
+      "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\samsung.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung.jpg"
     },
     {
       "Id": "D:\\NopBai\\LTW\\DoAnLTW\\DoAnLTW\\wwwroot\\img\\shop01.png",

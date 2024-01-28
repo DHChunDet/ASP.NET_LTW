@@ -17,5 +17,6 @@ namespace DoAnLTW.Data
         public DbSet<DoAnLTW.Models.Category> Category { get; set; } = default!;
         public DbSet<DoAnLTW.Models.Product> Product { get; set; } = default!;
         public DbSet<DoAnLTW.Models.User> User { get; set; } = default!;
+        public DbSet<DoAnLTW.Models.ShopingCart> ShopingCart { get; set; } = default!;
     }
 }

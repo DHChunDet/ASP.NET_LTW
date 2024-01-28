@@ -1,0 +1,11 @@
+dotnet ef dbcontext scaffold "server=DESKTOP-E2R85TO\SA; database=ShopOnline_Demo; user=Admin; password=1234; Trusted_Connection=True; TrueServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -o DataBase -c "DemoContext" -f
+
+ [HttpPost]
+	public ActionResult Register()
+	{
+		return View();
+	}
+
+Welcome to Electro
+
+Discover the latest in mobile technology at Electro, your go-to destination for cutting-edge smartphones, tablets, and accessories. As a premier online mobile retailer, we bring you a curated selection of the best devices from top brands around the globe.

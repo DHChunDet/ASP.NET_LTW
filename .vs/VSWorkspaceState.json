@@ -6,8 +6,9 @@
     "\\DoAnLTW\\Models",
     "\\DoAnLTW\\Views",
     "\\DoAnLTW\\Views\\Home",
+    "\\DoAnLTW\\Views\\ShopingCarts",
     "\\DoAnLTW\\wwwroot"
   ],
-  "SelectedNode": "\\DoAnLTW.sln",
+  "SelectedNode": "\\DoAnLTW\\Views\\ShopingCarts\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
